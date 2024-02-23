@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<hmtl>
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name= "aplication-name" content="MIGUEL TROLHA">
+ <title>cinamata</title>
+ <link rel="stylesheet" href="styles.css">
+ <script type="module" scr="code.js"> </script>
+
+
+</head>
+<body>
+  <h1> e621 é cringe </h1>
+  <div class="center">
+     <span class="msg"> ola nengue</span>
+  </div>
+</body>
+</html>
